@@ -5,7 +5,7 @@ The N-Queens problem is an extension of the eight queens puzzle developed in 184
 Project is/was created for CISC 352 at Queen's University for Professor Kaos in 2018.
 
 # Use
-The script takes in a single .txt file which contains a list of integer N values. It generates a single solution to the N-Queens problem for each N value and outputs all solutions to a single .txt file. A sample input and and output .txt have been included.
+The script requires a single nqueens.txt file which contains a list of integer N values and must be present in the script directory. It generates a single solution to the N-Queens problem for each N value and outputs all solutions to a single nqueens_out.txt file. A sample input and and output .txt have been included.
 
 An example solution for a board of size 4 would be output in the format:
 
